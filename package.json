@@ -54,7 +54,8 @@
     "tsconfig": "^7.0.0"
   },
   "resolutions": {
-    "trim-newlines": "^4.0.1"
+    "trim-newlines": "^4.0.1",
+    "meow": "^10.0.1"
   },
   "devDependencies": {
     "@types/chai": "^4.2.12",
